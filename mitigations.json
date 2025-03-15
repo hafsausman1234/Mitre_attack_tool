@@ -1,0 +1,17 @@
+{
+    "T1553.005": "Use strong code-signing and software verification techniques.",
+    "T1566.001": "Train users to identify phishing emails and attachments.",
+    "T1556": "Implement multi-factor authentication and enforce secure authentication protocols.",
+    "T1557": "Use encrypted communication channels and network segmentation.",
+    "T1071.004": "Monitor DNS traffic for anomalies and implement DNS filtering.",
+    "T1499": "Deploy anti-DDoS measures to protect services from disruption.",
+    "T1557.002": "Use secure communication protocols to prevent adversary-in-the-middle attacks.",
+    "T1059.007": "Restrict the execution of JavaScript in untrusted web pages.",
+    "T1204.001": "Educate users on risks of clicking unknown links and attachments.",
+    "T1552.004": "Ensure private keys and credentials are securely stored.",
+    "T1592": "Restrict access to system configuration data.",
+    "T1552": "Enforce proper access controls for sensitive credentials.",
+    "T1505.002": "Use input validation techniques to prevent SQL injection.",
+    "T1190": " Apply security patches, use WAF, enforce input validation, and follow the least privilege principle.",
+    "T1132": " Use DPI, detect anomalous encoding, restrict encoded commands, and enforce secure communication standards."
+}
